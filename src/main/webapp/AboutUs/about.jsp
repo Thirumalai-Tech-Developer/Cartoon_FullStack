@@ -4,8 +4,9 @@
     <meta charset="UTF-8">
     <title>Home Page</title>
     <link rel="stylesheet" href="./home.css">
+
 </head>
-<body style="background-image: url('home.jpg');">
+<body>
     <header>
         <%@ include file="navbar.html" %>
     </header>
