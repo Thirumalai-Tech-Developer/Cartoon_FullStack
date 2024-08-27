@@ -1,1 +1,1 @@
-find . -path "./target" -prune -o -type f -print
+target/
